@@ -1,2 +1,3 @@
 # hello-world
-New repository
+
+alex is learning github!!
